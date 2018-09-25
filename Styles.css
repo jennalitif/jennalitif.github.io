@@ -1,0 +1,23 @@
+Body {
+    Background: #ff75bd;
+    Color: black;
+    Font-size: 16pt;
+    Font-family: 'PT Sans', sans-serif;
+
+
+}
+
+nav li {
+    display: inline-block;
+    border: 2px black;
+    Padding: 20px;
+    background: darkgray;
+    margin: 5px;
+
+}
+
+nav a:hover {
+    background: aqua;
+
+
+}
